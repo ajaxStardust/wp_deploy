@@ -138,7 +138,7 @@ dist
 *.csprj
 
 # other misc
-*.vscode
+# *.vscode
 
 ## --------------- WORDPRESS SPECIFIC STUFF ----------------- ##
 

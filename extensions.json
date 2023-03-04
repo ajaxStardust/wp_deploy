@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "rifi2k.format-html-in-php",
+        "yutengjing.open-in-external-app",
+        "Natizyskunk.sftp",
+        "xdebug.php-debug",
+        "dbaeumer.vscode-eslint",
+        "fabiospampinato.vscode-terminals",
+        "GitHub.vscode-pull-request-github",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "primafuture.open-php-html-js-in-browser",
+    ]
+}
